@@ -6,3 +6,36 @@ cd C:\Users\bejat\Desktop\open_ia\P7\app_deployment_model
 
 # RUN
 streamlit run streamlit_tweet_app.py
+
+
+# DEPLOIEMENT SUR GITHUB
+https://www.youtube.com/watch?v=4o9qzbssfII
+
+# GITHUB
+1/ Install outils Git bash
+https://git-scm.com
+2/ Compte GitHub
+Jerome5577/tweet_test_app
+
+# Editeur de texte 
+Brackets
+
+Git bash :
+git init
+
+git config --global user.name 'Jerome5577'
+
+
+git config --global user.email 'bejatjerome@gmail.com'
+
+git add .
+
+git status
+
+git rm -r --cached OLD/
+
+git commit
+(taper la lettre "i" pour insérer commentaire
+commentaire : "    "
+taper sur "echap" pour sortir
+puis taper ":wq"
