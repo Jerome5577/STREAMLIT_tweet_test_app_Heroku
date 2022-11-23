@@ -1,0 +1,8 @@
+
+
+
+# DIR
+cd C:\Users\bejat\Desktop\open_ia\P7\app_deployment_model
+
+# RUN
+streamlit run streamlit_tweet_app.py
